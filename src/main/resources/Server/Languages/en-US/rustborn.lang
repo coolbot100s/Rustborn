@@ -1,0 +1,83 @@
+# === items ===
+
+items.Deco_Rustborn_Heart.name = Rustborn Heart
+items.Weapon_Gun_Blunderbuss_Rustborn.name = Scrap Gun
+items.Weapon_Spellbook_Echoes_Of_The_Machine.name = Grimoire: Echoes of the Machine
+items.Weapon_Spellbook_Echoes_Of_The_Machine.description = Raises Rustborn Skeletal minions from nearby Rustborn Hearts.\n\
+\n\
+• Minions despawn when their summoner is lost, or after 5 minutes.\n\
+\n<color is="#ccaa00">Consumes 1 grimoire per minion raised.</color>
+
+# === npcRoles ===
+
+npcRoles.Skeleton_Rustborn_Archer.name = Rustborn Skeleton Archer
+npcRoles.Skeleton_Rustborn_Gunner.name = Rustborn Skeleton Gunner
+npcRoles.Skeleton_Rustborn_Knight.name = Rustborn Skeleton Knight
+npcRoles.Skeleton_Rustborn_Lancer.name = Rustborn Skeleton Lancer
+npcRoles.Skeleton_Rustborn_Soldier.name = Rustborn Skeleton Soldier
+npcRoles.Skeleton_Rustborn_Head.name = Rustborn Skeleton Head
+
+# === portals ===
+
+portals.desert = Howling Sands
+portals.hederas_lair = The Dread Wade
+portals.henges = Silent Henges
+portals.oasis = Windrider Valley
+portals.jungles = Tal'Kesi Refuge
+portals.boreal = Dragonspire Weald
+portals.discoverySubtitle = Fragment of Orbis
+portals.incomplete.description = <b>The energies within this Fragment have yet to take their final form. All you encounter within - lore, function, and form - awaits its true shape.</b>
+portals.hederas_lair.description = Few have experienced the terrors that lurk in Orbis' murkier depths. Fewer still have returned unchanged.\n\
+\n\
+<msg key="server.portals.incomplete.description"/>
+portals.boreal.description = There are frozen forests into which not even an Outlander dares set foot, no matter how the whispers beckon.\n\
+\n\
+Legends about the region's name pile up: Mountains obscuring the sky, towering trees grazing the clouds, or perhaps ancient creatures born of elemental ice slumbering among the peaks.\n\
+\n\
+<msg key="server.portals.incomplete.description"/>
+portals.henges.description = At times, the line between truth and fiction blurs. Not every Fragment the Ancient Gateway shows you will hold the truths you seek.\n\
+\n\
+Yet, surely nothing exists without purpose. Perhaps that leads us to a different question: who built these Ancient Gateways, and why?\n\
+\n\
+<msg key="server.portals.incomplete.description"/>
+portals.oasis.description = A Feran values freedom above all else, and nowhere is that freedom embodied more than in the winds of Windrider Valley.\n\
+\n\
+It was here that they sought refuge in the darkest years of their history, setting up camps where the towering canyon walls might hide them from view.\n\
+\n\
+<msg key="server.portals.incomplete.description"/>
+portals.jungles.description = Deep beneath the desolate wastelands left by an ancient civilization, a primordial haven thrives.\n\
+\n\
+<msg key="server.portals.incomplete.description"/>
+portals.undefined.obj1 = [TMP] Do something?
+portals.undefined.tip1 = [TMP] Be prepared!
+portals.taiga.tip1 = <color is="#05c09a">A mythical beast sleeps here, bound in an\n\
+eternal slumber.</color>
+portals.hederas_lair.tip1 = <color is="#05c09a">A ravenous menace lurks at the heart the swamp.</color>
+portals.hederas_lair.tip2 = <color is="#05c09a">The murky shallows are home to dangerous fauna.</color>
+portals.windsurf_valley.tip1 = <color is="#05c09a">On occasion, a Mage Tower may be found here.</color>
+portals.tags.orbis = [TMP] Orbis
+portals.tabs.zone1 = [TMP] Zone 1
+portals.tags.corrupted = [TMP] Corruption
+portals.tags.poison = [TMP] Poison
+portals.tags.frost = [TMP] Frost
+portals.tags.lush = [TMP] Lush
+portals.tags.desolate = [TMP] Desolate
+portals.tags.glider = [TMP] Gliding
+portals.device.blockStateMisconfigured = The portal block's state '{state}' doesn't exist, this is an asset misconfiguration
+portals.device.blockEntityMisconfigured = The portal block requires a "Portal" block component, this is an asset misconfiguration
+portals.device.internalErrorSpawning = There was an internal error spawning the portal
+portals.device.worldNoSpawn = This portal is not quite ready, it's still channeling a return conduit!
+portals.device.worldIsDead = The target world of this portal doesn't exist or disappeared
+portals.device.refInvalid = Your entity reference is invalid! Are you in a world?
+portals.device.blockEntityRefInvalid = The associated block entity reference is invalid!
+portals.device.notInPortalWorld = You aren't in a portal world, so nothing happens!
+portals.device.adjusted = The portal device was invalid and has been adjusted!
+portals.attuningToWorld = The portal is still attuning to your new presence in this world...
+portals.portalWorld.unnamed = Unnamed
+
+# === prefabs ===
+
+prefabs.unknown = Unknown
+prefabs.discovered = Discovered
+prefabs.ruinsOfRustyFort = Ruins of Rusty Fort
+

@@ -1,0 +1,53 @@
+{
+  "Type": "StatsCondition",
+  "$Comment": "Prepare Delay",
+  "RunTime": 0,
+  "Next": {
+    "Type": "Parallel",
+    "$Comment": "Make sure this parallel interaction is needed and can't be optimized away",
+    "Interactions": [
+      {
+        "Interactions": [
+          {
+            "Type": "Replace",
+            "DefaultValue": {
+              "Interactions": [
+                "Gun_Shoot_Cost_Stamina"
+              ]
+            },
+            "Var": "Gun_Shoot_Cost_Stamina"
+          }
+        ]
+      },
+      {
+        "Interactions": [
+          {
+            "Type": "Replace",
+            "DefaultValue": {
+              "Interactions": [
+                "Gun_Shoot_Rustborn"
+              ]
+            },
+            "Var": "Gun_Shoot_Rustborn"
+          }
+        ]
+      }
+    ]
+  },
+  "Failed": {
+    "Type": "Replace",
+    "DefaultValue": {
+      "Interactions": [
+        "Gun_Shoot_Fail"
+      ]
+    },
+    "Var": "Gun_Shoot_Fail"
+  },
+  "Effects": {
+    "LocalSoundEventId": "SFX_Blunderbuss_Fire_Local",
+    "WorldSoundEventId": "SFX_Blunderbuss_Fire"
+  },
+  "Costs": {
+    "Stamina": -10
+  }
+}

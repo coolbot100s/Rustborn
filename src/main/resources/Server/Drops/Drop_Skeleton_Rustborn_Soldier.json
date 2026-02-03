@@ -1,0 +1,34 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Containers": [
+      {
+        "Type": "Choice",
+        "Weight": 90,
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Deco_Rustborn_Heart",
+              "QuantityMin": 1,
+              "QuantityMax": 1
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Choice",
+        "Containers": [
+          {
+            "Type": "Single",
+            "Item": {
+              "ItemId": "Weapon_Sword_Steel_Rusty"
+            },
+            "Weight": 25
+          }
+        ],
+        "Weight": 5
+      }
+    ]
+  }
+}

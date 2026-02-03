@@ -1,0 +1,85 @@
+{
+  "Environments": [
+    "Env_Zone4_Wastes",
+    "Env_Zone4_Shores",
+    "Env_Zone4_Volcanoes",
+    "Env_Zone4_Crucible",
+    "Env_Zone4_Jungles"
+  ],
+  "NPCs": [
+    {
+      "Weight": 10,
+      "Id": "Skeleton_Burnt_Soldier_Wander",
+      "Flock": {
+        "Size": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "Weight": 5,
+      "Id": "Skeleton_Burnt_Praetorian_Wander",
+      "Flock": {
+        "Size": [
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "Id": "Skeleton_Rustborn_Archer",
+      "Flock": {
+        "Size": [
+          4,
+          5
+        ]
+      },
+      "Weight": 100
+    },
+    {
+      "Id": "Skeleton_Rustborn_Gunner",
+      "Flock": {
+        "Size": [
+          4,
+          5
+        ]
+      },
+      "Weight": 100
+    },
+    {
+      "Id": "Skeleton_Rustborn_Knight",
+      "Flock": {
+        "Size": [
+          4,
+          5
+        ]
+      },
+      "Weight": 100
+    },
+    {
+      "Id": "Skeleton_Rustborn_Lancer",
+      "Flock": {
+        "Size": [
+          4,
+          5
+        ]
+      },
+      "Weight": 100
+    },
+    {
+      "Id": "Skeleton_Rustborn_Soldier",
+      "Weight": 60,
+      "Flock": {
+        "Size": [
+          4,
+          5
+        ]
+      }
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ]
+}
