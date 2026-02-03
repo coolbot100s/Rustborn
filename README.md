@@ -1,5 +1,12 @@
 # Rustborn  
+<img width="1024" height="255" alt="Rustborn-2-3-2026" src="https://github.com/user-attachments/assets/7a6fe283-ec87-4485-bc4a-ec21bed336c1" />
+
 Developed for [Hytale Modjam](https://hytalemodjam.com/), Art, Models, and Data Assets by [@Kchem](https://github.com/KchemGitHub).  
+
+### Click to Watch on youtube :)
+
+[![Watch the video](https://img.youtube.com/vi/pDXfpV1TJI8/maxresdefault.jpg)](https://www.youtube.com/watch?v=pDXfpV1TJI8)
+
 
 Currently, the mod's focal point is the rustborn skeletons, of which there are multiple variants and one particular unique gameplay feature.  
 There are also a handful of new items and a new instanced portal that offers a significant late-game challenge!  
