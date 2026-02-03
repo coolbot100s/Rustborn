@@ -5,8 +5,8 @@
   "Categories": [
     "Items.Weapons"
   ],
-  "Icon": "Icons/ItemsGenerated/Weapon_Gun_Blunderbuss_Rusty.png",
-  "Texture": "Items/Weapons/Gun/Blunderbuss_Rusty_Texture.png",
+  "Icon": "Icons/ItemsGenerated/Weapon_Gun_Blunderbuss_Rustborn.png",
+  "Texture": "Items/Weapons/Gun/Scrap_Gun_Texture.png",
   "PlayerAnimationsId": "Rifle",
   "Interactions": {
     "Primary": "Gun_Shoot_Flintlock_Rustborn_Charging",
@@ -86,19 +86,19 @@
     }
   },
   "IconProperties": {
-    "Scale": 0.38,
-    "Translation": [
-      -14,
-      -25
-    ],
+    "Scale": 0.6,
     "Rotation": [
       320,
       90,
       0
+    ],
+    "Translation": [
+      -14,
+      -25
     ]
   },
   "Quality": "Technical",
-  "Model": "Items/Weapons/Gun/Blunderbuss.blockymodel",
+  "Model": "Items/Weapons/Gun/Scrap_Gun.blockymodel",
   "Tags": {
     "Type": [
       "Weapon"
@@ -107,5 +107,32 @@
       "Gun"
     ]
   },
-  "Weapon": {}
+  "Weapon": {},
+  "Recipe": {
+    "TimeSeconds": 3,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Weapon_Gun_Blunderbuss_Rusty",
+        "Quantity": 1
+      },
+      {
+        "Quantity": 3,
+        "ItemId": "Deco_Rustborn_Heart"
+      },
+      {
+        "ItemId": "Ingredient_Fire_Essence",
+        "Quantity": 5
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Categories": [
+          "Weapon_Bow"
+        ],
+        "Id": "Weapon_Bench"
+      }
+    ]
+  }
 }

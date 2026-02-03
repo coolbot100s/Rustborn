@@ -1,0 +1,15 @@
+{
+  "Conditions": {
+    "EnvironmentIds": [
+      "Env_Zone4_Rustborn"
+    ]
+  },
+  "Music": {
+    "Tracks": [
+      "Music/Zone4/SynthType.ogg"
+    ],
+    "Volume": 6.92
+  },
+  "AudioCategory": "AudioCat_Music",
+  "Priority": 1000
+}

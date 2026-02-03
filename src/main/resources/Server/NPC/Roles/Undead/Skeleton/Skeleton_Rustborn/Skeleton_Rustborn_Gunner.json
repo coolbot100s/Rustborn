@@ -42,7 +42,7 @@
     "DropList": "Drop_Skeleton_Rustborn_Gunner",
     "Appearance": "Skeleton_Rustborn_Gunner",
     "Weapons": [
-      "Weapon_Gun_Blunderbuss_Rustborn"
+      "Weapon_Gun_Blunderbuss_Rusty"
     ],
     "FlockArray": {
       "Compute": "FlockArray"

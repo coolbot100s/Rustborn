@@ -19,13 +19,13 @@
       },
       {
         "Type": "Choice",
-        "Weight": 5,
+        "Weight": 10,
         "Containers": [
           {
             "Weight": 25,
             "Type": "Single",
             "Item": {
-              "ItemId": "Weapon_Gun_Blunderbuss_Rustborn",
+              "ItemId": "Weapon_Gun_Blunderbuss_Rusty",
               "QuantityMin": 1,
               "QuantityMax": 1
             }

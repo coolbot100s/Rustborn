@@ -1,0 +1,19 @@
+{
+  "InstanceId": "Portals_Rustborn",
+  "Description": {
+    "DisplayName": "rustborn.portals.rustborn",
+    "FlavorText": "rustborn.portals.rustborn.description",
+    "ThemeColor": "#23970cec",
+    "SplashImage": "DefaultArtwork.png",
+    "Tips": [
+      "rustborn.portals.rustborn.tip1",
+      "rustborn.portals.rustborn.tip2"
+    ]
+  },
+  "PlayerSpawn": {
+    "Y": 140,
+    "ScanHeight": 27,
+    "MinRadius": 200,
+    "MaxRadius": 200
+  }
+}

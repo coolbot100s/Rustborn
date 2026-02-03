@@ -4,7 +4,7 @@
   },
   "Icon": "Icons/ItemsGenerated/Deco_Rustborn_Heart.png",
   "Categories": [
-    "Blocks.Plants"
+    "Items.Ingredients"
   ],
   "Interactions": {
     "Primary": "Block_Primary",
@@ -34,11 +34,6 @@
       }
     }
   },
-  "ResourceTypes": [
-    {
-      "Id": "Bone"
-    }
-  ],
   "PlayerAnimationsId": "Item",
   "Tags": {
     "Type": [

@@ -8,22 +8,22 @@
   ],
   "Quality": "Rare",
   "ItemLevel": 40,
-  "Model": "NPC/Void/Necromancer_Void/Models/Weapons/Spellbook/Demon.blockymodel",
-  "Texture": "NPC/Void/Necromancer_Void/Models/Weapons/Spellbook/Demon_Texture.png",
+  "Model": "Items/Weapons/Spellbook/Rustborn_Spellbook.blockymodel",
+  "Texture": "Items/Weapons/Spellbook/Rustborn_Spellbook_Texture.png",
   "PlayerAnimationsId": "Spellbook",
   "IconProperties": {
     "Scale": 0.6,
-    "Translation": [
-      -10,
-      -10
-    ],
     "Rotation": [
       45,
       90,
       0
+    ],
+    "Translation": [
+      -10,
+      -10
     ]
   },
-  "Icon": "Icons/ItemsGenerated/Weapon_Spellbook_Demon.png",
+  "Icon": "Icons/ItemsGenerated/Weapon_Spellbook_Echoes_Of_The_Machine.png",
   "DroppedItemAnimation": "Items/Animations/Dropped/Dropped_Diagonal_Left.blockyanim",
   "MaxStack": 5,
   "Tags": {
@@ -175,5 +175,32 @@
         }
       ]
     }
+  },
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Weapon_Spellbook_Rekindle_Embers",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Deco_Rustborn_Heart",
+        "Quantity": 5
+      },
+      {
+        "ItemId": "Ingredient_Fire_Essence",
+        "Quantity": 10
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Arcanebench",
+        "Type": "Crafting",
+        "Categories": [
+          "Arcane_Misc"
+        ]
+      }
+    ],
+    "RequiredMemoriesLevel": 1,
+    "TimeSeconds": 3
   }
 }
