@@ -1,11 +1,9 @@
-# Rustborn
-Developed for [Hytale Modjam](https://hytalemodjam.com/), Art, Models, and Data Assets by [@Kchem](https://github.com/KchemGitHub).
+# Rustborn  
+Developed for [Hytale Modjam](https://hytalemodjam.com/), Art, Models, and Data Assets by [@Kchem](https://github.com/KchemGitHub).  
 
 Currently, the mod's focal point is the rustborn skeletons, of which there are multiple variants and one particular unique gameplay feature.  
 There are also a handful of new items and a new instanced portal that offers a significant late-game challenge!  
 Everything is survival-friendly and can be experienced without the need for creative mode, but it is Late-game content by nature and balanced accordingly.
-
-[Video Showcase]()
 
 ### They Never Stop
 *Rustborn are resilient, having survived the wastes long past when their metal bodies should have disintegrated. Their artificial souls echo throughout time, hunting you.*
@@ -23,7 +21,7 @@ Standard skeletal enemies that spawn in large clusters in the zone 4 Wastes and 
 - Rustborn Gunner
 
 ### Rustborn Scrap Heaps
-Scrap Heaps are the still-fighting remains of the Rustborn, they spawn after a Rustborn or higher-tier Scrap Heap has been defeated.
+Scrap Heaps are the still-fighting remains of the Rustborn Skeletons
 
 - Rustborn Crawler
 - Rustborn Head
@@ -50,8 +48,3 @@ Soulless Rustborns have been brought back from the beyond, without an artificial
   Gangs of Rustborn Skeletons can now be found in Zone 4.
 - Rustborn Wastes
   Accessible via an Arcane Portal with minimal memory requirements once a Mechanical Echoes fragment has been crafted, this time-limited instanced zone is a wide-open battlefield filled with Rustborns, who are not happy that you're disturbing their resting place. Survive as long as you can to be rewarded with plenty of Rustborn loot!  
-
-### Attributions
-synthwave_type remixed (G_P vs vitalezzz vs TricksnTraps) URL: https://opengameart.org/content/synthwave-type-remixed-gp-vs-vitalezzz-vs-tricksntraps Remixed by: glitchart  
-Remixed Songs:  
-synthwave_type URL: https://opengameart.org/content/synthwavetype Author: G_P License(s): CC0 Jumping cyborg Author: tricksntraps: URL: https://opengameart.org/content/t-t-free-cyberpunk-pack-2 License; CC0 Through the universe Author: vitalezz URL: https://opengameart.org/content/through-the-universe cc0 license License(s): CC0
