@@ -1,4 +1,6 @@
-# Rustborn
+# Rustborn  
+Developed for [Hytale Modjam](https://hytalemodjam.com/), Art, Models, and Data Assets by [@Kchem](https://github.com/KchemGitHub).  
+
 Currently, the mod's focal point is the rustborn skeletons, of which there are multiple variants and one particular unique gameplay feature.  
 There are also a handful of new items and a new instanced portal that offers a significant late-game challenge!  
 Everything is survival-friendly and can be experienced without the need for creative mode, but it is Late-game content by nature and balanced accordingly.
