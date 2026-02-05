@@ -1,8 +1,6 @@
 # Rustborn  
 <img width="1024" height="255" alt="Rustborn-2-3-2026" src="https://github.com/user-attachments/assets/7a6fe283-ec87-4485-bc4a-ec21bed336c1" />
 
-Developed for [Hytale Modjam](https://hytalemodjam.com/submissions/dc037a7c-4171-4ba2-9fcb-81ff17f17687), Art, Models, and Data Assets by [@Kchem](https://github.com/KchemGitHub).  
-
 ### Click to Watch on youtube :)
 
 [![Watch the video](https://img.youtube.com/vi/pDXfpV1TJI8/maxresdefault.jpg)](https://www.youtube.com/watch?v=pDXfpV1TJI8)
